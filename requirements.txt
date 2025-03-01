@@ -1,0 +1,9 @@
+agents==1.4.0
+carla==0.9.15
+deap==1.4.2
+matplotlib==3.10.1
+numpy==2.2.3
+py_trees==2.3.0
+pygame==2.6.1
+scipy==1.15.2
+srunner==0.15
