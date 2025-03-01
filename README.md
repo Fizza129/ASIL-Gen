@@ -98,7 +98,7 @@ ASIL-Gen/
 
 ## Scenario Types
 
-The repository contains 13 base scenarios:
+The repository contains 13 unique scenarios:
 - Lane change
 - Cut-in with static vehicle
 - Dynamic object crossing
