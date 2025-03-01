@@ -122,7 +122,7 @@ The `Scenario Results` folder contains the outputs from executed scenarios.
 ---
 
 ## Notes
-- **Dataset Usage**: The `Scenario Dataset` contains 1,000 variations for each base scenario. Extract and copy files as instructed.  
+- **Dataset Usage**: The `Scenario Dataset` contains 1,000 variations for each unique scenario. Extract and copy files as instructed.  
 - **Custom Generation**: Modify scripts in `Scenario Generation Scripts/` to create new scenario variations.  
 
 ---
