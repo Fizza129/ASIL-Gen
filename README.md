@@ -91,7 +91,7 @@ ASIL-Gen/
 ├── Random Search/         # Random Search-based scenario selection  
 ├── Scenario Dataset/      # Pre-generated scenario variations (Python + XML)  
 ├── Scenario Generation Scripts/  # Scripts to generate new scenario variations  
-└── Scenario Results/      # Output results (e.g., Scenario Results.zip)  
+└── Scenario Results/      # Output results 
 ```
 
 ---
